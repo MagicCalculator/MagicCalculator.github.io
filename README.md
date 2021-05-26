@@ -3,7 +3,7 @@
 
 ### 第一个应用：魔术计算器-简易计算器
 
-下载链接：[AppStore链接](https://github.com/MagicCalculator/MagicCalculator.github.io/edit/main/README.md)  
+下载链接：[AppStore链接](https://apps.apple.com/cn/app/id1569271718)  
 隐私政策：[隐私政策链接](https://github.com/MagicCalculator/MagicCalculator.github.io/edit/main/README.md) 这儿您可以看看应用相关的隐私政策  
 技术支持：[技术支持](https://github.com/MagicCalculator/MagicCalculator.github.io/edit/main/README.md) 如果有啥问题，或者简易均可通过技术支持来联系  
 
