@@ -20,11 +20,20 @@
 
 ### 第三个应用： Clean iPhone
 
-下载链接：[AppStore链接](https://apps.apple.com/cn/app/id1569271718)  
+下载链接：[AppStore链接](https://apps.apple.com/cn/app/id1574489644)  
 隐私政策：[隐私政策链接](https://magiccalculator.github.io/CleanIPhone/privacy.html) 这儿您可以看看应用相关的隐私政策  
 技术支持：[技术支持](https://magiccalculator.github.io/CleanIPhone/support.html) 如果有啥问题，或者简易均可通过技术支持来联系  
 
 应用介绍：这是一款关于苹果设备清理的App。清理内容包括 图片、视频、通讯录、过期日历以及过期提醒。此外，本App介绍了苹果设备的一般怎么清理，如果管理，以及常见App的缓存清理教程。
+
+### 第四个应用： App Designer
+
+下载链接：[AppStore链接](https://apps.apple.com/cn/app/id1569271718)  
+隐私政策：[隐私政策链接](https://magiccalculator.github.io/seal/privacy.html) 这儿您可以看看应用相关的隐私政策  
+技术支持：[技术支持](https://magiccalculator.github.io/seal/support.html) 如果有啥问题，或者简易均可通过技术支持来联系  
+
+应用介绍：这是一款关于印章制作的工具App，本App可以制作诸多类型印章，也可以向指定图片上盖上自定义的印章。无论是整蛊还是需要制作电子章都可以来尝试尝试。
+
 
 
 ### 第四个应用： 印章
